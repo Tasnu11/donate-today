@@ -1,8 +1,12 @@
 body{
+
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
 font-family: 'Titillium Web', sans-serif;
+}
+.size{
+    font-size: bold;
 }
 
 
@@ -121,7 +125,28 @@ section{
 }
 .container{
     display: flex;
+}
+.box{
+    padding: 0;
+    margin: 0;
+    font-family:'Roboto' sans-serif ;
+    box-sizing: border-box;
+    background: cornflowerblue ;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.form-box{
+    padding: 10px;
+    border-radius: 5px;
+    background: darkslategrey;
     
 }
-
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.color{
+    color: brown;
+}
     
