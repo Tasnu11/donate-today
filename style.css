@@ -29,9 +29,70 @@ section{
     padding-top: 10%;
     font-size: large;
 }
+.section1{
+    margin-top: 150px;
+    text-align: center;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+}
+.card1{
+    margin: 15px;
+    padding: 20px;
+    background-color: lightgrey;
 
+}
+ .card1:hover{
+    background-color: bisque;
+ }
+ hr{
+    margin-left: 160px;
+    margin-right:160px ;
+ }
+ .button{
+    border: 1px solid lavender;
+    padding: 12px;
+    background-color: coral;
+    color: snow;
+    font-weight: 700;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 
- 
+ }
+ .text-style-donate{
+    text-align: center;
+ }
+ .card-container{
+    display: flex;
+ }
+ .cart-one-style{
+    background-color: burlywood;
+    padding: 30px;
+    margin: 10px;
+ }
+ .card-one-style-img{
+    width: 25%;
+    border-radius: 100%;
+ }
+ .cart-two-style{
+    background-color:burlywood ;
+    padding: 30px;
+    margin: 10px;
+ }
+.cart-two-style img{
+    width: 20%;
+    border-radius: 100%;
+}
+.cart-three-style{
+    background-color: burlywood;
+    padding: 30px;
+    margin: 10px;
+}
+.cart-three-style img{
+    width: 25%;
+    border-radius: 100%;
+}
 
 
     
